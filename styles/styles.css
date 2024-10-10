@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 2em;
+    font-family: arial;
+    background-color: burlywood;
+
+}
+.container{
+    margin: auto;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.container input{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.container button{
+    cursor: pointer;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
